@@ -12,15 +12,16 @@
 
 ## 在线体验
 
-https://mtr.ylnpf.cn
+演示地址：https://mtr.ylnpf.cn
 
 ## 功能
 
-- 黑名单信息查询
-- 响应式设计
-- 快速查询结果展示
-- 支持自主部署
-- 开源，可自由扩展
+- 支持 MTR 圈黑名单信息查询
+- 简洁直观的用户界面
+- 响应式设计，兼容 PC 与移动设备
+- 查询结果快速展示
+- 支持自行部署与二次开发
+- 开源项目，欢迎贡献代码
 
 ## 快速开始
 
@@ -28,6 +29,12 @@ https://mtr.ylnpf.cn
 
 ```bash
 git clone https://github.com/YileinaPiFa/mtrban.git
+```
+
+### 进入项目目录
+
+```bash
+cd SearchForBanWeb
 ```
 
 ### 安装依赖
@@ -42,7 +49,13 @@ npm install
 npm run dev
 ```
 
-### 构建项目
+默认访问：
+
+```
+http://localhost:5173
+```
+
+### 构建生产版本
 
 ```bash
 npm run build
@@ -58,19 +71,36 @@ npm run preview
 
 ```text
 SearchForBanWeb/
-├── public/
-├── src/
-├── package.json
-├── vite.config.*
+├── public/              # 静态资源
+├── src/                 # 项目源码
+├── package.json         # 项目配置
+├── vite.config.*        # Vite 配置
 └── ...
 ```
 
+## 技术栈
+
+- Vue
+- Vite
+- JavaScript / TypeScript
+- Node.js
+
+## 贡献
+
+欢迎提交 Issue 与 Pull Request，共同完善本项目。
+
 ## 免责声明
 
-本项目仅提供公开收录信息的查询服务，仅供学习、研究与技术交流使用。
+- 本项目仅提供公开收录信息的查询服务，仅供学习、研究与技术交流使用。
+- **MTR** 在本项目中特指 **Minecraft Transit Railway** 模组交流圈，并非香港铁路（MTR Corporation）。
+- 查询结果仅供参考，不代表开发者对数据的真实性、完整性或时效性作出任何保证。
+- 本项目不会主动收集用户隐私信息。
+- 请勿将本项目用于任何违法违规用途，由使用本项目产生的一切后果均由使用者自行承担。
 
-查询结果仅供参考，不代表开发者对数据真实性、完整性或时效性作出保证。请勿将本项目用于任何违法违规用途，由使用本项目产生的一切后果由使用者自行承担。
+## License
+
+本项目采用 [MIT License](./LICENSE)。
 
 ---
 
-> 本文档部分内容由 AI 辅助整理。
+> 本项目部分内容由AI辅助整理开发
