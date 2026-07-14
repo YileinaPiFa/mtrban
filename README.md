@@ -1,7 +1,6 @@
 # MTR 圈黑名单查询网站
 
-一个基于 Web 的 MTR 圈黑名单查询网站，用于查询已收录的黑名单信息，提供简洁、高效的在线查询体验。
-已**内置**API，请勿修改，会导致**无法正常使用所有功能**
+一个基于 Web 的 MTR 圈黑名单查询网站，用于查询已收录的黑名单信息，提供简洁、高效的在线查询体验。\n已**内置**API，请勿修改，会导致**无法正常使用所有功能**
 
 [![Demo](https://img.shields.io/badge/Demo-mtr.ylnpf.cn-2ea44f?logo=googlechrome&logoColor=white)](https://mtr.ylnpf.cn)
 [![GitHub release](https://img.shields.io/github/v/release/YileinaPiFa/mtrban)](../../releases/latest)
