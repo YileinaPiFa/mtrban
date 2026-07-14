@@ -2,14 +2,16 @@
 
 一个基于 Web 的 MTR 圈黑名单查询网站，用于查询已收录的黑名单信息，提供简洁、高效的在线查询体验。
 
-[![Demo](https://img.shields.io/badge/Demo-mtr.ylnpf.cn-blue)](https://mtr.ylnpf.cn)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](.)
+[![Demo](https://img.shields.io/badge/Demo-mtr.ylnpf.cn-2ea44f?logo=googlechrome&logoColor=white)](https://mtr.ylnpf.cn)
 [![License](https://img.shields.io/github/license/YileinaPiFa/mtrban)](./LICENSE)
-![GitHub stars](https://img.shields.io/github/stars/YileinaPiFa/mtrban)
-![GitHub forks](https://img.shields.io/github/forks/YileinaPiFa/mtrban)
-![GitHub issues](https://img.shields.io/github/issues/YileinaPiFa/mtrban)
-![GitHub last commit](https://img.shields.io/github/last-commit/YileinaPiFa/mtrban)
-![Uploading image.png…]()
+[![GitHub stars](https://img.shields.io/github/stars/YileinaPiFa/mtrban?style=flat)](../../stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/YileinaPiFa/mtrban?style=flat)](../../network/members)
+[![GitHub issues](https://img.shields.io/github/issues/YileinaPiFa/mtrban?style=flat)](../../issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/YileinaPiFa/mtrban?style=flat)](../../commits)
+[![GitHub release](https://img.shields.io/github/v/release/YileinaPiFa/mtrban)](../../releases)
+[![GitHub Downloads](https://img.shields.io/github/downloads/YileinaPiFa/mtrban/total)](../../releases)
+<img width="1439" height="767" alt="image" src="[https://github.com/user-attachments/assets/34bdad30-f8c4-4525-86d2-c458c80d5c4f](https://pan.ylnpf.cn/f/aqCR/41502C9165525A7D9850F66A9FE03CDD.png)" />
+
 
 
 ## 在线体验
