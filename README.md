@@ -5,6 +5,10 @@
 [![Demo](https://img.shields.io/badge/Demo-mtr.ylnpf.cn-blue)](https://mtr.ylnpf.cn)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](.)
 [![License](https://img.shields.io/github/license/YileinaPiFa/mtrban)](./LICENSE)
+![GitHub stars](https://img.shields.io/github/stars/YileinaPiFa/mtrban)
+![GitHub forks](https://img.shields.io/github/forks/YileinaPiFa/mtrban)
+![GitHub issues](https://img.shields.io/github/issues/YileinaPiFa/mtrban)
+![GitHub last commit](https://img.shields.io/github/last-commit/YileinaPiFa/mtrban)
 
 ## 在线体验
 
