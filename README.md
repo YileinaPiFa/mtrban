@@ -1,16 +1,3 @@
-# Hi, 我是 {{github.repository_owner}} 
-今年已度过了 {{DAYS_SINCE_2026-01-01}} 天
-## 数据统计
-
-
-## 本周编码时长
-<!--START_SECTION:waka-->
-{{WeeklyCodingTime}}
-{{TopLanguages}}
-<!--END_SECTION:waka-->
-
-## 访客
-
 # MTR 圈黑名单查询网站
 
 - 一个基于 Web 的 MTR 圈黑名单查询网站，用于查询已收录的黑名单信息，提供简洁、高效的在线查询体验
